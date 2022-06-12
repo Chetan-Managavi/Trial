@@ -1,0 +1,38 @@
+
+.detail1
+{
+    margin: 20px;
+}
+.parli
+{
+    display: flex;
+    
+}
+
+.head
+{
+    display: flex;
+    margin-left: 600px;
+}
+.form
+{
+    border: solid black;
+
+}
+#name
+{
+    margin: 40px;
+}
+
+form
+{
+    margin: 45px;
+}
+.submit
+{
+    width: 100px;
+}
+.detail
+{
+    color: grey;
+}
